@@ -79,7 +79,7 @@ You can also visit my game through this link provided below:
 
 ## 👤 Author
 
-Developed by **Adrian**
+Developed by **Adrian**\n
 Indie Developer | IT Student | Learning-focused Game Creator
 
 Have a good day!..
