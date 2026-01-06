@@ -16,15 +16,14 @@ This is not a mass-produced obby. The focus is intentional design, fair challeng
 * Practice clean, maintainable Lua scripting
 * Design fair but challenging obstacle mechanics
 * Improve understanding of player movement, timing, and progression
-* Learn how to structure a real-world game project repository
 
 ---
 
 ## 🕹️ Core Gameplay Philosophy
 
-* **Skill-based progression** — difficulty increases through mechanics, not randomness
-* **Precision over spam** — movement and timing matter
-* **Fair challenge** — failures should feel deserved, not frustrating
+* **Skill-based progression** — difficulty increases through mechanics
+* **Precision** — movement, positioning, and timing matter
+* **Fair challenge** — failures should feel deserved and treat as lesson, not frustrating
 * **Mastery-driven** — the game rewards learning and consistency
 
 ---
@@ -70,7 +69,17 @@ You may **NOT**:
 
 ---
 
+## Where can I visit?
+
+The name of the game is "Masters of Obby" by IanKun240
+
+You can also visit my game through this link provided below:
+  https://www.roblox.com/share?code=ba5cedfd6e62d44a9a823e7c71be0196&type=ExperienceDetails&stamp=1767724274341
+
+
 ## 👤 Author
 
 Developed by **Adrian**
 Indie Developer | IT Student | Learning-focused Game Creator
+
+Have a good day!..
