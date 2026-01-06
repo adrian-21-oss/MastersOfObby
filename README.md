@@ -80,7 +80,9 @@ You can also visit my game through this link provided below:
 ## 👤 Author
 
 Developed by **Adrian**
+
 Indie Developer | IT Student | Learning-focused Game Creator
+
 
 
 
