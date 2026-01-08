@@ -35,11 +35,21 @@ local players = game.Players:GetChildren()
 
 
 
+local soundFolder = game.Workspace:FindFirstChild("BackgroundMusic")
+
+local LobbySound = soundFolder:WaitForChild("LobbySound")
+local GameSound = soundFolder:WaitForChild("Map1Sound")
+local ClockTickSound = soundFolder.SoundEffects:WaitForChild("ClockTick")
+
+
+
 function displayPlayers() do
 
 
 		local Players = PlayersService:GetPlayers()
-		
+
+		GameSound:Stop()
+		LobbySound:Play()
 		
 		task.wait(1)
 
@@ -452,6 +462,9 @@ function ready(seconds) do
 			
 			print(seconds)
 			
+			ClockTickSound:Play()
+			
+			
 			
 			wait(1)
 			
@@ -459,6 +472,8 @@ function ready(seconds) do
 			
 			
 			if seconds == 0 then
+				ClockTickSound:Play()
+
 				
 				readyCountdown_remoteEvent:FireAllClients("Go!")
 				task.wait(0.0001)
@@ -512,7 +527,11 @@ function teleport(players) do
 					--character:PivotTo(CFrame.new(Vector3.new(143, 5, 9)) * CFrame.Angles(0, math.rad(270), 0))					
 					
 					character:PivotTo(CFrame.new(Vector3.new(320, 416, 5.5)) * CFrame.Angles(0, math.rad(270), 0))					
+					
 
+
+					LobbySound:Stop()
+					GameSound:Play()
 					
 					table.insert(playersScript.ingamePlayers, player)
 					table.insert(firstCheckpoint.checkedPlayers, player)
