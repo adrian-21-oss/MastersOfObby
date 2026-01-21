@@ -69,12 +69,13 @@ You may **NOT**:
 * Claim this work as your own
 
 All rights are reserved by the author.
+
 ---
 
 
 ## Where can I visit?
 
-The name of the game is "Masters of Obby" by IanKun240
+The name of the game is "Masters of Obby" by IanKun240 in Roblox
 
 You can also visit my game through this link provided below:
   https://www.roblox.com/share?code=ba5cedfd6e62d44a9a823e7c71be0196&type=ExperienceDetails&stamp=1767724274341
