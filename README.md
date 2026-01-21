@@ -57,17 +57,20 @@ This project is **actively developed** and may change structure, mechanics, or s
 
 ## 📜 License & Usage
 
-This project is **NOT open source**.
+This repository is provided for **viewing and educational reference only**.
 
-You may **view** the code for educational and reference purposes only.
+This project is shared publicly to document my learning process, design thinking, and growth as an indie game developer. To protect the originality of the work and my intellectual property, no permission is granted for reuse or redistribution.
+
+
 You may **NOT**:
-
-* Copy or reuse the code
-* Redistribute the project or assets
+* Copy, modify, or reuse this code
+* Distribute or publish this project or its assets
 * Use the code in your own games
 * Claim this work as your own
 
+All rights are reserved by the author.
 ---
+
 
 ## Where can I visit?
 
