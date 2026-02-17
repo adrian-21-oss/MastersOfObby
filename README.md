@@ -51,7 +51,7 @@ Not all assets may be present in this repository.
 
 ## 🚧 Development Status
 
-This project is **actively developed** and may change structure, mechanics, or systems over time as part of the learning process.
+This project is currently **on hiatus** and may change structure, mechanics, or systems over time as part of the learning process.
 
 ---
 
